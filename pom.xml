@@ -70,10 +70,10 @@
         </dependency>
 
 
-        <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc14 -->
+        <!-- https://mvnrepository.com/artifact/com.oracle/ojdbc9 -->
         <dependency>
             <groupId>com.oracle</groupId>
-            <artifactId>ojdbc14</artifactId>
+            <artifactId>ojdbc9</artifactId>
             <version>1.0</version>
         </dependency>
 
